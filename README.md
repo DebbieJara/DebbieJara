@@ -51,20 +51,20 @@ I bring a unique combination of analytical rigor, cross-functional communication
 
 ## 📚 Education & Certifications
 
-- 🎓 **Data Analytics Bootcamp** — TripleTen *(in progress, 2025)*
-- 🎓 **Google Data Analytics Certificate** — Coursera *(in progress, 2025)*
-- 🎓 **Imersão Inteligência Artificial** — Alura + Google
-- 🎓 **M.A. in English Language Teaching** — Universidad IEXPRO *(2022)*
-- 🎓 **B.A. in Graphic Design** — Universidad Tecnológica de México *(2014)*
+🎓 **Data Analytics Bootcamp** — TripleTen *(in progress, 2025)*
+🎓 **Google Data Analytics Certificate** — Coursera *(in progress, 2025)*
+🎓 **Imersão Inteligência Artificial** — Alura + Google
+🎓 **M.A. in English Language Teaching** — Universidad IEXPRO *(2022)*
+🎓 **B.A. in Graphic Design** — Universidad Tecnológica de México *(2014)*
 
 ---
 
 ## 📊 Professional Highlights
 
-- 🔹 Automated interview management platform standardising proficiency data across **4 countries** and **300+ interviews/year** — including the Kin Carta + Valtech merger
-- 🔹 Built dashboards tracking KPIs for **600+ learners** (attendance, dropouts, progression) using **Excel** and **Power BI**
-- 🔹 Cleaned, validated, and structured datasets to ensure accuracy and consistency of operational reports
-- 🔹 Supported KPI definition and structuring for academic and operational decision-making
+🔹 Automated interview management platform standardising proficiency data across **4 countries** and **300+ interviews/year** — including the Kin Carta + Valtech merger
+🔹 Built dashboards tracking KPIs for **600+ learners** (attendance, dropouts, progression) using **Excel** and **Power BI**
+🔹 Cleaned, validated, and structured datasets to ensure accuracy and consistency of operational reports
+🔹 Supported KPI definition and structuring for academic and operational decision-making
 
 ---
 
