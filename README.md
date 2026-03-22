@@ -52,9 +52,13 @@ I bring a unique combination of analytical rigor, cross-functional communication
 ## 📚 Education & Certifications
 
 🎓 **Data Analytics Bootcamp** — TripleTen *(in progress, 2025)*
+
 🎓 **Google Data Analytics Certificate** — Coursera *(in progress, 2025)*
+
 🎓 **Imersão Inteligência Artificial** — Alura + Google
+
 🎓 **M.A. in English Language Teaching** — Universidad IEXPRO *(2022)*
+
 🎓 **B.A. in Graphic Design** — Universidad Tecnológica de México *(2014)*
 
 ---
