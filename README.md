@@ -66,8 +66,11 @@ I bring a unique combination of analytical rigor, cross-functional communication
 ## 📊 Professional Highlights
 
 🔹 Automated interview management platform standardising proficiency data across **4 countries** and **300+ interviews/year** — including the Kin Carta + Valtech merger
+
 🔹 Built dashboards tracking KPIs for **600+ learners** (attendance, dropouts, progression) using **Excel** and **Power BI**
+
 🔹 Cleaned, validated, and structured datasets to ensure accuracy and consistency of operational reports
+
 🔹 Supported KPI definition and structuring for academic and operational decision-making
 
 ---
