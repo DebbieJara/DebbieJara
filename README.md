@@ -9,8 +9,8 @@
 Data Analyst with real-world experience in operational reporting, data cleaning, and performance metrics at **Valtech**, a global digital transformation consultancy. I collaborated with development teams to automate data processes, built dashboards tracking KPIs for 600+ learners, and analysed proficiency data across 4 countries (MX, CO, AR, BR).
 
 Currently deepening my technical skills through:
-- 📊 **TripleTen Data Analytics Bootcamp** *(in progress, 2025)*
-- 📈 **Google Data Analytics Certificate — Coursera** *(in progress, 2025)*
+- 📊 **TripleTen Data Analytics Bootcamp** *(in progress, 2026)*
+- 📈 **Google Data Analytics Certificate — Coursera** *(in progress, 2026)*
 
 I bring a unique combination of analytical rigor, cross-functional communication, and a proven ability to turn data into actionable business insights.
 
