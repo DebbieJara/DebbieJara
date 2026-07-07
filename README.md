@@ -1,63 +1,49 @@
-## Hi there, I'm Deborah Jara 👋
+## Hi there, I'm Deborah 👋
 
-### Data Analyst | Python · SQL · Power BI · R | Remote-ready
+### Data Analyst | Operational Reporting • Business Insights • Power BI • SQL
 
 ---
 
 ## 👩‍💻 About Me
 
-Data Analyst with real-world experience in operational reporting, data cleaning, and performance metrics at **Valtech**, a global digital transformation consultancy. I collaborated with development teams to automate data processes, built dashboards tracking KPIs for 600+ learners, and analysed proficiency data across 4 countries (MX, CO, AR, BR).
+My path into Data Analytics didn't start with SQL or Python.
 
-Currently deepening my technical skills through:
-- 📊 **TripleTen Data Analytics Bootcamp** *(in progress, 2026)*
-- 📈 **Google Data Analytics Certificate — Coursera** *(in progress, 2026)*
+It started by asking questions.
 
-I bring a unique combination of analytical rigor, cross-functional communication, and a proven ability to turn data into actionable business insights.
+While working in Learning & Development at Valtech, a global digital transformation consultancy, I became increasingly interested in understanding the data behind our programs. What began with analyzing learner trends evolved into building operational reports, defining KPIs, creating Power BI dashboards, and collaborating on process improvement initiatives that supported learning operations for more than 600 employees across Mexico, Colombia, Argentina, and Brazil.
 
-- 🌎 Based in **Mexico** — open to **remote opportunities**
-- 💬 Languages: Spanish (Native) · English (Bilingual) · Portuguese (B2)
-- 📫 Reach me at: **deborahjara9012@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/deborahjara](https://linkedin.com/in/deborahjara)
+The more I worked with data, the more I found myself looking for opportunities to solve problems through analysis rather than intuition. That's when I realized I wanted analytics to become my career.
 
----
+Today I'm building on that foundation by strengthening my skills in SQL, Python, R, and Tableau through hands-on projects focused on customer behavior, operational performance, business intelligence, and data visualization.
 
-## 🛠️ Technical Skills
+I enjoy turning messy datasets into meaningful insights, asking the right questions before jumping to conclusions, and communicating findings in a way that helps people make better decisions.
+
+Here you'll find projects that showcase both my technical skills and my approach to solving business problems through data.
+
+Thanks for stopping by, and feel free to explore my repositories or connect with me on LinkedIn!
+
+📍 Mexico  
+🌎 Open to remote opportunities  
+📫 deborahjara9012@gmail.com  
+💬 Languages: Spanish (Native) · English (Bilingual) · Portuguese (B2)
+🔗 LinkedIn: [linkedin.com/in/deborahjara](https://linkedin.com/in/deborahjara)
+
+## 📚 Currently Learning
+
+I'm building on my professional experience by strengthening my technical skills in analytics, statistics, and programming through:
+
+- 📊 **TripleTen Data Analytics Bootcamp** *(Expected completion: 2026)*
+- 📈 **Google Data Analytics Professional Certificate — Coursera** *(Expected completion: 2026)*
+  
+## 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
 |---|---|
-| **Languages** | Python · SQL · R |
-| **Libraries** | pandas · NumPy · Matplotlib · Seaborn |
-| **Visualization** | Power BI · Tableau · Matplotlib |
-| **Data Skills** | Data Cleaning · ETL · Data Wrangling · EDA · Descriptive Statistics |
-| **Productivity** | Excel (Advanced) · Google Sheets · Reporting Automation |
-
----
-
-## 📂 Projects
-
-> 🚧 Projects from TripleTen Bootcamp and Google Data Analytics Certificate coming soon.
-
-<!-- Add projects here as you complete them. Use this format:
-
-### 🔹 [Project Name]
-**Tools:** Python (pandas, NumPy) | SQL | Power BI  
-**Description:** Brief explanation of what the project was about.  
-**Outcome:** What you found, solved, or learned.  
-🔗 [View Project](link-to-repo)
-
--->
-
----
-
-## 📚 Education & Certifications
-
-🎓 **Data Analytics Bootcamp** — TripleTen *(in progress, 2025)*
-
-🎓 **Google Data Analytics Certificate** — Coursera *(in progress, 2025)*
-
-🎓 **Imersão Inteligência Artificial** — Alura + Google
-
-🎓 **M.A. in English Language Teaching** — Universidad IEXPRO *(2022)*
+| **Analytics** | Power BI · Excel (Advanced) · SQL · Python · R · Tableau |
+| **Data** | Data Cleaning · Data Transformation · Power Query · Data Validation · Exploratory Data Analysis (EDA) · Dashboard Development · KPI Design · Operational Reporting |
+| **Libraries** | pandas · NumPy · Matplotlib |
+| **Tools** | VS Code · Git · GitHub · Google Sheets · Microsoft Office |
+| **AI Productivity** | ChatGPT · Claude · Microsoft Copilot |
 
 🎓 **B.A. in Graphic Design** — Universidad Tecnológica de México *(2014)*
 
@@ -65,15 +51,16 @@ I bring a unique combination of analytical rigor, cross-functional communication
 
 ## 📊 Professional Highlights
 
-🔹 Automated interview management platform standardising proficiency data across **4 countries** and **300+ interviews/year** — including the Kin Carta + Valtech merger
+🔹 Led the **Level Mapping Project**, collaborating with developers to digitize a manual assessment workflow and reduce administrative effort by approximately **100–200 minutes per week**.
 
-🔹 Built dashboards tracking KPIs for **600+ learners** (attendance, dropouts, progression) using **Excel** and **Power BI**
+🔹 Developed operational dashboards in **Excel and Power BI** to monitor KPIs for **600+ learners across four countries**, improving visibility into attendance, proficiency, enrollment, and program performance.
 
-🔹 Cleaned, validated, and structured datasets to ensure accuracy and consistency of operational reports
+🔹 Prepared, cleaned, validated, and transformed operational datasets used for recurring reporting and dashboard development.
 
-🔹 Supported KPI definition and structuring for academic and operational decision-making
+🔹 Co-defined operational KPIs that supported reporting consistency and data-informed decision-making across Learning & Development and business teams.
+
+🔹 Developed assessment guidelines and trained Talent Acquisition team members on English proficiency evaluation criteria, improving consistency and confidence during candidate interviews.
 
 ---
 
-*Currently building in public — follow along as I complete projects in Python, SQL, and data visualisation! 🚀*
-
+💡 **Always learning, always building.** I enjoy creating projects that demonstrate how data can improve processes, support decision-making, and solve real business problems.
