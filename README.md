@@ -38,10 +38,10 @@ I'm building on my professional experience by strengthening my technical skills 
 
 | Category | Tools & Technologies |
 |---|---|
-| Analytics | Power BI · Excel (Advanced) · SQL · Python · R · Tableau |
-| Data | Data Cleaning · Data Transformation · Power Query · Data Validation · Exploratory Data Analysis (EDA) · Dashboard Development · KPI Design · Operational Reporting |
-| Libraries | pandas · NumPy · Matplotlib |
-| Tools | VS Code · Git · GitHub · Google Sheets · Microsoft Office |
+| Analytics | Power BI · DAX · Excel (Advanced) · SQL · Python · R · Tableau |
+| Data | Data Cleaning · Data Transformation · Power Query · Data Validation · Exploratory Data Analysis (EDA) · A/B Testing · Statistical Analysis · Cohort & Funnel Analysis · Dashboard Development · KPI Design · Operational Reporting |
+| Libraries | pandas · NumPy · Matplotlib · Seaborn · SciPy · statsmodels |
+| Tools | VS Code · Git · GitHub · Google Sheets · Google Colab · Jupyter Notebook · DuckDB · Microsoft Office |
 | AI Productivity | ChatGPT · Claude · Microsoft Copilot |
 
 🎓 B.A. in Graphic Design, Universidad Tecnológica de México (2014)
