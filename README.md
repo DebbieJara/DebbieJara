@@ -44,6 +44,7 @@ I'm building on my professional experience by strengthening my technical skills 
 | Tools | VS Code · Git · GitHub · Google Sheets · Google Colab · Jupyter Notebook · DuckDB · Microsoft Office |
 | AI Productivity | ChatGPT · Claude · Microsoft Copilot |
 
+🎓 M.A. in English Language Teaching, IEXPRO (2022)
 🎓 B.A. in Graphic Design, Universidad Tecnológica de México (2014)
 
 ## 📊 Professional Highlights
