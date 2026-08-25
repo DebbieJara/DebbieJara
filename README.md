@@ -18,10 +18,10 @@ Here you'll find projects that showcase both my technical skills and my approach
 
 Thanks for stopping by, and feel free to explore my repositories or connect with me on LinkedIn!
 
-📍 Mexico
-🌎 Open to remote opportunities
-📫 deborahjara9012@gmail.com
-💬 Languages: Spanish (Native) · English (Bilingual) · Portuguese (B2)
+📍 Mexico<br>
+🌎 Open to remote opportunities<br>
+📫 deborahjara9012@gmail.com<br>
+💬 Languages: Spanish (Native) · English (Bilingual) · Portuguese (B2)<br>
 🔗 LinkedIn: [linkedin.com/in/deborahjara](https://www.linkedin.com/in/deborahjara)
 
 ## 🎓 Certifications
